@@ -76,6 +76,13 @@
       "type": "Anime",
       "author": "ODA Eiichiro",
       "locked": true
+    },
+    {
+      "id": "12",
+      "name": "Gintama",
+      "type": "Anime",
+      "author": "Sorachi Hideaki ",
+      "locked": true
     }
   ]
 }
