@@ -2,20 +2,20 @@
   "books": [
     {
       "id": "1",
-      "title": "The Great Gatsby",
+      "name": "The Great Gatsby",
       "type": "English",
       "author": "F. Scott Fitzgerald",
       "locked": false
     },
     {
       "id": "2",
-      "title": "1984",
+      "name": "1984",
       "type": "Novel",
       "author": "George Orwell",
       "locked": true
     },
     {
-      "title": "To Kill a Mockingbird",
+      "name": "To Kill a Mockingbird",
       "type": "Novel",
       "author": "Harper Lee",
       "locked": false,
@@ -23,27 +23,27 @@
     },
     {
       "id": "4",
-      "title": "Moby Dick",
+      "name": "Moby Dick",
       "type": "Anime",
       "author": "Herman Melville",
       "locked": false
     },
     {
       "id": "5",
-      "title": "War and Peace",
+      "name": "War and Peace",
       "type": "English",
       "author": "Leo Tolstoy",
       "locked": true
     },
     {
       "id": "6",
-      "title": "Pride and Prejudice",
+      "name": "Pride and Prejudice",
       "type": "English",
       "author": "Jane Austen",
       "locked": false
     },
     {
-      "title": "The Catcher in the Rye",
+      "name": "The Catcher in the Rye",
       "type": "Novel",
       "author": "J.D. Salinger",
       "locked": false,
@@ -51,20 +51,20 @@
     },
     {
       "id": "8",
-      "title": "The Hobbit",
+      "name": "The Hobbit",
       "type": "Novel",
       "author": "J.R.R. Tolkien",
       "locked": true
     },
     {
       "id": "9",
-      "title": "Fahrenheit 451",
+      "name": "Fahrenheit 451",
       "type": "Anime",
       "author": "Ray Bradbury",
       "locked": false
     },
     {
-      "title": "Jane Eyre",
+      "name": "Jane Eyre",
       "type": "Novel",
       "author": "Charlotte Brontë",
       "locked": true,
@@ -72,7 +72,7 @@
     },
     {
       "id": "11",
-      "title": "One Piece",
+      "name": "One Piece",
       "type": "Anime",
       "author": "ODA Eiichiro",
       "locked": true
